@@ -1,0 +1,283 @@
+{
+  "products": [
+    {
+      "id": "luxury-armchair-1781952985245",
+      "name": "Luxury Armchair",
+      "category": "sofas",
+      "priceRange": "₹12,000 – ₹18,000",
+      "image": "https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&w=800&q=80",
+      "description": "Premium high-density foam chair with teak wood legs.",
+      "featured": true
+    },
+    {
+      "id": "sofa-3seater-fabric",
+      "name": "3-Seater Fabric Sofa",
+      "category": "sofas",
+      "priceRange": "₹18,000 – ₹32,000",
+      "image": "https://images.unsplash.com/photo-1567016432779-094069958ea5?auto=format&fit=crop&w=800&q=80",
+      "description": "Plush 3-seater with a solid wood frame and stain-resistant fabric. Available in multiple colours.",
+      "featured": true
+    },
+    {
+      "id": "recliner-single",
+      "name": "Single-Seat Recliner",
+      "category": "sofas",
+      "priceRange": "₹14,000 – ₹26,000",
+      "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=80",
+      "description": "Smooth-action recliner with padded arms — the perfect reading and TV chair.",
+      "featured": true
+    },
+    {
+      "id": "queen-bed-storage",
+      "name": "Queen Bed with Storage",
+      "category": "beds-wardrobes",
+      "priceRange": "₹16,000 – ₹28,000",
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80",
+      "description": "Hydraulic storage bed in engineered wood — fits a queen mattress with generous under-bed space.",
+      "featured": true
+    },
+    {
+      "id": "wardrobe-3door",
+      "name": "3-Door Wardrobe",
+      "category": "beds-wardrobes",
+      "priceRange": "₹15,000 – ₹30,000",
+      "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?auto=format&fit=crop&w=800&q=80",
+      "description": "Spacious 3-door wardrobe with mirror, drawers and adjustable shelves.",
+      "featured": false
+    },
+    {
+      "id": "dining-6seater",
+      "name": "6-Seater Dining Set",
+      "category": "dining",
+      "priceRange": "₹22,000 – ₹45,000",
+      "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=800&q=80",
+      "description": "Solid wood dining table with six cushioned chairs — built for family dinners.",
+      "featured": true
+    },
+    {
+      "id": "dining-4seater",
+      "name": "4-Seater Dining Set",
+      "category": "dining",
+      "priceRange": "₹12,000 – ₹24,000",
+      "image": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?auto=format&fit=crop&w=800&q=80",
+      "description": "Compact 4-seater dining set, ideal for apartments and small families.",
+      "featured": false
+    },
+    {
+      "id": "office-chair-ergo",
+      "name": "Ergonomic Office Chair",
+      "category": "office",
+      "priceRange": "₹6,000 – ₹14,000",
+      "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?auto=format&fit=crop&w=800&q=80",
+      "description": "Mesh-back ergonomic chair with lumbar support and adjustable height.",
+      "featured": true
+    },
+    {
+      "id": "office-desk-study",
+      "name": "Study & Office Desk",
+      "category": "office",
+      "priceRange": "₹7,000 – ₹16,000",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=800&q=80",
+      "description": "Sturdy work desk with drawers and a cable-friendly design for home or office.",
+      "featured": false
+    },
+    {
+      "id": "nilkamal-chair-set",
+      "name": "Nilkamal Plastic Chair (Set of 4)",
+      "category": "nilkamal-plastic",
+      "priceRange": "₹2,400 – ₹4,800",
+      "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=800&q=80",
+      "description": "Genuine Nilkamal moulded chairs — weather-resistant, stackable and easy to clean.",
+      "featured": true
+    },
+    {
+      "id": "nilkamal-stool",
+      "name": "Nilkamal Stool & Side Table",
+      "category": "nilkamal-plastic",
+      "priceRange": "₹900 – ₹2,200",
+      "image": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&w=800&q=80",
+      "description": "Lightweight Nilkamal stools and side tables in a range of bright colours.",
+      "featured": false
+    },
+    {
+      "id": "tv-unit-wall",
+      "name": "Wall-Mounted TV Unit",
+      "category": "decor-storage",
+      "priceRange": "₹8,000 – ₹18,000",
+      "image": "https://images.unsplash.com/photo-1550581190-9c1c48d21d6c?auto=format&fit=crop&w=800&q=80",
+      "description": "Modern TV unit with open shelves and closed storage to keep the living room neat.",
+      "featured": true
+    },
+    {
+      "id": "shoe-rack-4tier",
+      "name": "4-Tier Shoe Rack",
+      "category": "decor-storage",
+      "priceRange": "₹3,000 – ₹7,000",
+      "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=800&q=80",
+      "description": "Compact 4-tier shoe rack that keeps your entryway organised.",
+      "featured": false
+    }
+  ],
+  "categories": [
+    {
+      "slug": "sofas",
+      "name": "Sofas & Recliners",
+      "shortName": "Sofas",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80",
+      "description": "Comfortable sofa sets and recliners to make your living room a place everyone wants to gather."
+    },
+    {
+      "slug": "beds-wardrobes",
+      "name": "Beds & Wardrobes",
+      "shortName": "Beds",
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+      "description": "Sturdy beds and spacious wardrobes built for restful nights and clutter-free bedrooms."
+    },
+    {
+      "slug": "dining",
+      "name": "Dining Sets",
+      "shortName": "Dining",
+      "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=900&q=80",
+      "description": "Dining tables and chairs in every size — from cosy 4-seaters to grand family sets."
+    },
+    {
+      "slug": "office",
+      "name": "Office Furniture",
+      "shortName": "Office",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=900&q=80",
+      "description": "Desks, office chairs and storage that keep your workspace productive and tidy."
+    },
+    {
+      "slug": "nilkamal-plastic",
+      "name": "Plastic & Nilkamal Furniture",
+      "shortName": "Nilkamal",
+      "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=900&q=80",
+      "description": "Genuine Nilkamal chairs, stools and tables — durable, affordable and easy to clean."
+    },
+    {
+      "slug": "decor-storage",
+      "name": "Home Decor & Storage",
+      "shortName": "Decor",
+      "image": "https://images.unsplash.com/photo-1550581190-9c1c48d21d6c?auto=format&fit=crop&w=900&q=80",
+      "description": "Shoe racks, shelves, TV units and decor pieces that finish off every room."
+    }
+  ],
+  "business": {
+    "name": "Rohit Furnitures",
+    "tagline": "Premium Quality Furniture in Salem",
+    "phoneDisplay": "093442 33442",
+    "phoneTel": "+919344233442",
+    "whatsapp": "919344233442",
+    "email": "rohitfurnitures.salem@gmail.com",
+    "address": {
+      "line1": "No.54, Old Palace Theatre Complex",
+      "line2": "Cherry Road",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "pincode": "636001",
+      "full": "No.54, Old Palace Theatre Complex, Cherry Rd, Salem, Tamil Nadu 636001"
+    },
+    "coordinates": {
+      "lat": 11.6643,
+      "lng": 78.146
+    },
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rohit+Furnitures+Cherry+Road+Salem",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Rohit%20Furnitures%2C%20Cherry%20Rd%2C%20Salem%2C%20Tamil%20Nadu%20636001&output=embed",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10:00 AM – 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:00 AM – 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:00 AM – 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:00 AM – 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:00 AM – 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:00 AM – 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11:00 AM – 7:00 PM"
+      }
+    ],
+    "socialLinks": {
+      "instagram": "https://instagram.com/",
+      "facebook": "https://facebook.com/"
+    },
+    "brands": [
+      {
+        "name": "Nilkamal",
+        "logo": "/brands/nilkamal.svg",
+        "authorized": true
+      },
+      {
+        "name": "Brand 2",
+        "logo": "/brands/placeholder.svg",
+        "authorized": false
+      },
+      {
+        "name": "Brand 3",
+        "logo": "/brands/placeholder.svg",
+        "authorized": false
+      }
+    ],
+    "yearsInBusiness": 10
+  },
+  "testimonials": [
+    {
+      "id": "kumaran",
+      "name": "Kumaran",
+      "quote": "Good quality furniture at the best price, including genuine Nilkamal pieces. Helpful staff and a solid collection to choose from — happy with my purchase.",
+      "rating": 5,
+      "date": "Google Review",
+      "location": "Salem"
+    },
+    {
+      "id": "placeholder-1",
+      "name": "Add a customer name",
+      "quote": "Share a real customer's words here. Mention what they bought and how the experience was — this builds trust with new visitors.",
+      "rating": 5,
+      "date": "REPLACE WITH REAL REVIEW",
+      "location": "Salem"
+    },
+    {
+      "id": "placeholder-2",
+      "name": "Add a customer name",
+      "quote": "Another genuine review goes here. Quick delivery, fair price, friendly service — whatever your customers love most about Rohit Furnitures.",
+      "rating": 5,
+      "date": "REPLACE WITH REAL REVIEW",
+      "location": "Salem"
+    }
+  ],
+  "offers": [
+    {
+      "id": "inaugural-offer",
+      "title": "Vibrant Showroom Launch Celebration! 🎉",
+      "description": "Get customized solutions and direct pricing on all new sofas and modern dining sets.",
+      "badge": "Special Launch",
+      "code": "LAUNCH20",
+      "active": true
+    },
+    {
+      "id": "nilkamal-bulk",
+      "title": "Authorized Nilkamal Partner Deals 🌟",
+      "description": "Unbeatable pricing on bulk orders for offices, institutions, and home sets.",
+      "badge": "Best Value",
+      "code": "NILKAMAL-DEAL",
+      "active": true
+    }
+  ]
+}

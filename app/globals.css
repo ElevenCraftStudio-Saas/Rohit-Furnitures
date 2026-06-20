@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* HSL tokens for shadcn/ui — restored to light cream, beige & walnut-brown brand */
+    --background: 36 25% 96%;      /* #F8F5F0 */
+    --foreground: 0 0% 17%;        /* #2B2B2B */
+
+    --card: 36 28% 90%;            /* #EFE6D8 */
+    --card-foreground: 0 0% 17%;
+
+    --popover: 36 28% 90%;
+    --popover-foreground: 0 0% 17%;
+
+    --primary: 25 30% 32%;         /* #6B4F3A */
+    --primary-foreground: 36 25% 96%;
+
+    --secondary: 36 28% 90%;
+    --secondary-foreground: 0 0% 17%;
+
+    --muted: 36 28% 90%;
+    --muted-foreground: 0 0% 40%;   /* #666666 */
+
+    --accent: 39 48% 48%;          /* #B68D40 */
+    --accent-foreground: 36 25% 96%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 25 30% 32% / 0.15;    /* #6B4F3A at 15% opacity */
+    --input: 25 30% 32% / 0.15;
+    --ring: 25 30% 32%;
+
+    --radius: 1rem;                /* Rounded 16px */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-serif;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .container-section {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+}
